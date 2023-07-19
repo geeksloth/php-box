@@ -1105,7 +1105,7 @@ function pr($data, $die = false) {
 
 		<?php endif; ?>
 		<div class="row">
-			<div class="col-xs-12 text-center"><hr>Directory Listing Script &copy; <?php echo date('Y'); ?> Evoluted, <a href="//apps.giit.pw/box">Apps.Giit.pw/Box</a></div>
+			<div class="col-xs-12 text-center"><hr>Directory Listing Script &copy; <?php echo date('Y'); ?> Evoluted, <a href="//geeksloth.com">GeekSloth</a></div>
 		</div>
 	</div>
 	<style>
