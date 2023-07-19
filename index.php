@@ -767,7 +767,7 @@ class DirectoryListing {
 		$dirString = $this->__currentDirectory;
 		$directoryTree = array();
 
-		$directoryTree['./'] = 'Giit Box';
+		$directoryTree['./'] = 'Sloth Box';
 
 		if (substr_count($dirString, '/') >= 0) {
 			$items = explode("/", $dirString);
